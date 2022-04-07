@@ -33,7 +33,13 @@ Here is my [GPG Public Key](https://github.com/anyin233.gpg)
 - tailwind CSS
 - fastAPI
 
+## My Favourite Songs
 
+- ブラック★ロックシューター - supercell
+- [hello-marina - 稲葉曇](https://music.apple.com/jp/album/hello-marina/1610321242?i=1610321251&l=en)
+- [幽体離脱 - Kikuo](https://www.youtube.com/watch?v=UHH2KKN0xoc)
+- [Unknown Mother-Goose - hitorie](https://music.apple.com/jp/album/unknown-mother-goose/1535624171?i=1535624172&l=en)
+- [Unknown Mother-Goose - wowaka](https://www.youtube.com/watch?v=P_CSdxSGfaA)
 
 
 <!--
