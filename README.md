@@ -7,7 +7,7 @@
 Here is my [GPG Public Key](https://github.com/anyin233.gpg)
 
 # Something about myself
-**CS student, undergraduate student now.**
+**CS student, master student now.**
 
 ## Most used Language
 
