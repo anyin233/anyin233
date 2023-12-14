@@ -7,7 +7,7 @@
 Here is my [GPG Public Key](https://github.com/anyin233.gpg)
 
 # Something about myself
-**CS student, University of Science and Technology of China, master student now.**
+**CS student, master student now.**
 
 ## Most used Language
 
@@ -15,10 +15,9 @@ Here is my [GPG Public Key](https://github.com/anyin233.gpg)
 - Rust
 - Python
 
-
 ## What I'm working now
 
-- nothing!🤷‍♂️
+- Implement Particle-in-Cell algorithm in HPC
 
 ## What's my hobby
 
@@ -29,9 +28,7 @@ Here is my [GPG Public Key](https://github.com/anyin233.gpg)
 
 ## What I'm learing
 
-- next.js
-- tailwind CSS
-- fastAPI
+- Kokkos
 
 ## My Favourite Songs
 
